@@ -3,7 +3,7 @@
 #include "window.h"
 #include "dvd.h"
 
-#define WINDOW_TITLE "Bounching DVD Logo"
+#define WINDOW_TITLE "Bouncing DVD Logo"
 #define WINDOW_WIDTH  800
 #define WINDOW_HEIGHT 600
 #define DVD_SPEED 150.0f
